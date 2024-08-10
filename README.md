@@ -1,5 +1,7 @@
 # EMB_DUMP1090_Parser
 Reads SBS BaseStation coming from DUMP 1090 instance
+SBS is defined at http://woodair.net/sbs/article/barebones42_socket_data.htm
+
 
 Requires running dump1090.exe from https://github.com/gvanem/Dump1090?tab=readme-ov-file
 /dump1090 --interactive --net
