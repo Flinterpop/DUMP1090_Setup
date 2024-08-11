@@ -13,14 +13,15 @@ Can also use ADSB Exchange or RTLSDR (Jetvison) https://rtl1090.com/
 
 ![image](https://github.com/user-attachments/assets/6991a283-f750-43fe-827f-5b241b68bbe4)
 
-putty into 127.0.0.1:30003
+putty into 127.0.0.1:30003 to see SBS messages coming in. 
 
 ![image](https://github.com/user-attachments/assets/8f768ec3-d429-4f42-94a1-52d2ce411292)
 
 dump1090.exe folder requires many support files (dump1090.cfg plus a bunch of .dat files.
 
 RTL SDR device needs a driver installed.
-use ```zadig.exe```
+use ```zadig.exe``` to install the driver - see the readme under zadig folder for instructions. Note the USB device must be plugged into the PC before zadig will install the driver.
+
 
 
 
