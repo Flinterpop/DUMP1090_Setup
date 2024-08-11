@@ -1,5 +1,5 @@
 # DUMP1090_Setup
-Reads SBS BaseStation coming from DUMP 1090 instance.
+How to get SBS BaseStation coming from DUMP 1090 instance.
 
 SBS is defined at http://woodair.net/sbs/article/barebones42_socket_data.htm
 
