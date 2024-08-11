@@ -3,8 +3,10 @@ Reads SBS BaseStation coming from DUMP 1090 instance.
 
 SBS is defined at http://woodair.net/sbs/article/barebones42_socket_data.htm
 
-Requires running dump1090.exe from https://github.com/gvanem/Dump1090?tab=readme-ov-file
-Can also use ADSB Exchange or RTLSDR (Jetvison) https://rtl1090.com/
+Requires running dump1090 or clone from one of:
+- dump1090.exe https://github.com/gvanem/Dump1090?tab=readme-ov-file
+- ADSB Exchange running on Raspberry PI (for example)
+- RTLSDR (Jetvison) https://rtl1090.com/
 
 
 ```bash
