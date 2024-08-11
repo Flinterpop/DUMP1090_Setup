@@ -8,10 +8,12 @@ Requires running dump1090 or clone from one of:
 - ADSB Exchange running on Raspberry PI (for example)
 - RTLSDR (Jetvison) https://rtl1090.com/
 
-
+For dump1090 run as follows:
 ```bash
 /dump1090 --interactive --net
 ```
+Can see the dump1090 map on 127.0.0.1:8080/index.html
+
 
 ![image](https://github.com/user-attachments/assets/6991a283-f750-43fe-827f-5b241b68bbe4)
 
