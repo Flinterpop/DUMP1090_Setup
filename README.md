@@ -5,7 +5,7 @@ SBS is defined at http://woodair.net/sbs/article/barebones42_socket_data.htm
 
 Requires running dump1090 or clone from one of:
 - dump1090.exe https://github.com/gvanem/Dump1090?tab=readme-ov-file
-- ADSB Exchange running on Raspberry PI (for example)
+- ADSB Exchange running on Raspberry PI (for example) https://www.adsbexchange.com/
 - RTLSDR (Jetvison) https://rtl1090.com/
 
 For dump1090 run as follows:
