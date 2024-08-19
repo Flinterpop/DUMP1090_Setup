@@ -27,6 +27,10 @@ RTL SDR device needs a driver installed.
 use ```zadig.exe``` to install the driver - see the readme under zadig folder for instructions. Note the USB device must be plugged into the PC before zadig will install the driver.
 
 
+#### RTL SDR Settings
+
+![image](https://github.com/user-attachments/assets/85c80ff2-06f4-4e18-b1e4-9cb6cb6647b2)
+
 
 
 
