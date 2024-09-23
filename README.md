@@ -10,7 +10,7 @@ Requires running dump1090 or clone from one of:
 
 For dump1090 run as follows:
 ```bash
-/dump1090 --interactive --net
+./dump1090 --interactive --net
 ```
 Can see the dump1090 map on 127.0.0.1:8080/index.html
 
